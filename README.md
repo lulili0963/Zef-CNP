@@ -15,7 +15,9 @@ Set the OpenAI key.
 ```
 OpenAI(api_key = "...")
 ```
-Run the file 'CoT_query_generation.ipynb'
+Run the file 'CoT_query_generation.ipynb' to generate data with our proposed instructions.
+
+Run the file 'direct_query_generation.ipynb' to directly ask LLMs to genrate data. (Without TIQ-CoT and CoQu)
 
 ## How to fine-tuning
 
