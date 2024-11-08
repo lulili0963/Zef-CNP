@@ -48,7 +48,9 @@ Use the generated data and Run the file 'fine_tuning_and_inference.ipynb'
 
 ## The format of generated data
 
-Two attributes: Query and Label
+Two attributes: 'initial_request' and 'bianry_label'
+
 Number of specific queries: 2.5k
+
 Number of ambiguous queries: 2.5k
 
