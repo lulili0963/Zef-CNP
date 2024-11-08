@@ -45,3 +45,10 @@ Run the file 'direct_query_generation.ipynb' to directly ask LLMs to genrate dat
 ## How to fine-tuning
 
 Use the generated data and Run the file 'fine_tuning_and_inference.ipynb'
+
+## The format of generated data
+
+Two attributes: Query and Label
+Number of specific queries: 2.5k
+Number of ambiguous queries: 2.5k
+
